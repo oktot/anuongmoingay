@@ -4,7 +4,7 @@ import { prefixLink } from 'gatsby-helpers'
 import './style.scss'
 import iconEagle from '../../static/img/svg-icons/nihonsuruinline.svg'
 import iconKamon from '../../static/img/svg-icons/nihonsuruinline.svg'
-import iconBakaDono from '../../static/img/svg-icons/bakadono.svg'
+import iconBakaDono from '../../static/img/svg-icons/dung.svg'
 import { config } from 'config'
 
 class Footer extends React.Component {
@@ -16,9 +16,8 @@ class Footer extends React.Component {
 
 	<div className='footer__container-floating'>
 
-  <div className='footer__floating-button' data-toggle='tooltip' data-placement='left' data-original-title='Create' onclick='newmail()'>
-    <a href='tel:+84938878827'><p className='footer__plus'>Gọi</p></a>
-  </div>
+  
+  
 
 </div>
 
@@ -55,11 +54,11 @@ class Footer extends React.Component {
 
 
          <nav className='footer__versions'>
-	    <h3>{ config.siteAddress }</h3>
-	    <h3>{ config.siteAddress2 }</h3>
+	    <h3>Thủ Dầu Một.</h3>
+	    <h3>Món ăn ngon Bình Dương & Địa điểm quán ăn Bình Dương.</h3>
             <a href='/tos/privacy'>Privacy</a>
             <a href='/tos'>Terms of service</a>
-            <a href='/about' className='is-selected'><img className='footer__powered-svg' src={ prefixLink(iconKamon) }/> Giới thiệu { config.siteTitle }</a>
+            <a href='/about' className='is-selected'><img className='footer__powered-svg' src={ prefixLink(iconKamon) }/> Giới thiệu về chúng tôi</a>
 	    <a href='http://thaoam.com/'>© Thao Am Private Enterprise (P.E)</a>
           </nav>
         </div>
