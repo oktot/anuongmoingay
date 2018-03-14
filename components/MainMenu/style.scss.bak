@@ -9,7 +9,7 @@
         height: 50px;
         padding: 0 8px;
         text-decoration: none;
-        color: #156A08;
+        color: #ffffff;
         transition: opacity .25s ease;
         position: relative;
         display: flex;

@@ -3,16 +3,16 @@
 .footer {
   position: relative;
   overflow: hidden;
-  background: #FF6699;
+  background: #F9F97C;
 
   &__wrapper {
     // max-width: 999px;
     padding: 40px 10px;
-    background: rgba(#FF6699,.3);
+    background: rgba(#F9F97C,.3);
     margin: 0 auto;
     box-sizing: border-box;
-    background: #FF6699;
-    color: #ffffff;
+    background: #F9F97C;
+    color: #156A08;
   }
 
  &__left {
