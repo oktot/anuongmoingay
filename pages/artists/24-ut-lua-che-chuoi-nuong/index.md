@@ -1,13 +1,13 @@
 ---
 priority: c
-title: Chè Bà Ba - Đường Ngô Quyền
+title: Út Lúa - Chè chuối nướng
 layout: ArtistPage
 category: artists
-path: '/artists/23-che-ba-ba-duong-ngo-quyen/'
-key: chebabaduongngoquyen
+path: '/artists/24-ut-lua-che-chuoi-nuong/'
+key: utluachechuoinuong
 
-meta: Chè Bà Ba
-keywords: Chè Bà Ba, Món Ngon Bình Dương
+meta: Chè chuối nướng
+keywords: Chè chuối nướng, Món Ngon Bình Dương
 
 location: Bình Dương Island
 prices: 
@@ -23,18 +23,16 @@ soundcloud:
 youtube: 
 discogs: 
 ---
-<h3>Chè Bà Ba</h3>
+<h3>Chè chuối nướng</h3>
 
-Đây là món chè đậm chất miền Nam. Tương truyền, sở dĩ người ta gọi đây là chè Bà Ba là bởi món chè này ngon độc đáo, giống như người con gái đẹp miền Tây mặc chiếc áo bà ba mộc mạc mà rất đẹp.
+Chè chuối nướng là món ăn mang “dáng dấp” thôn quê nhưng rất đậm đà và giàu hương vị. Bạn có thể cảm nhận được cái giòn của nếp nướng, cái dẻo của chuối, cái ngọt bùi của nước dừa và đậu phộng...
 
-Món chè này ăn nóng rất ngon nhưng ăn lạnh hương vị hấp dẫn chẳng kém chút nào.Khi ăn, bạn sẽ cảm nhận được vị béo của nước cốt dừa, vị bùi của các loại đậu và khoai, xen lẫn phổ tai và nấm mèo giòn giòn, thoang thoảng hương lá dứa.
+<div align="center"><img src="http://dulichbinhduong.org.vn/uploads/images/che%20chuoi%20nuong.jpg" width="320px" height="200px"></div>
 
-<div align="center"><img src="http://dulichbinhduong.org.vn/uploads/images/Ch%C3%A8%20b%C3%A0%20Ba.JPG" width="320px" height="200px"></div>
+<div align="center"><img src="http://dulichbinhduong.org.vn/uploads/images/chuoi%20nuong.jpg" width="320px" height="200px"></div>
 
-<div align="center"><img src="http://dulichbinhduong.org.vn/uploads/images/Cha%20Ba%20Ba.JPG" width="320px" height="200px"></div>
+<div align="center"><img src="http://dulichbinhduong.org.vn/uploads/images/chuoi%20nuong%201.jpg" width="320px" height="200px"></div>
 
-<div align="center"><img src="http://dulichbinhduong.org.vn/uploads/images/foody-Che-Ba-Ba-104341-920-635531433231330411.JPG" width="320px" height="200px"></div>
+<center><em>Chuối nướng</center></em>
 
-<center><em>Chè Bà Ba - Lái Thiêu</center></em>
-
-<h3>Địa chỉ: đường Ngô Quyền, Lái Thiêu, Thị xã Thuận An, Bình Dương.</h3>
+<h3>Địa chỉ: Số 387 Cách Mạng Tháng 8, P. Hiệp Thành, Tp. Thủ Dầu Một, tỉnh Bình Dương.</h3>
