@@ -39,9 +39,9 @@ class Footer extends React.Component {
 	    
 	     <div className='footer__powered'>
             <span>Member of the clan </span>
-            <a href='https://thaoam.com' className='footer__powered-link' target='_blank'>
+            <a href='https://midorishop.com.vn' className='footer__powered-link' target='_blank'>
               <img className='footer__powered-svg' src={ prefixLink(iconEagle) }/>
-              <span className='footer__powered-fx'>Thao Am</span>
+              <span className='footer__powered-fx'>Midorishop</span>
             </a>
           </div>
 
@@ -54,12 +54,11 @@ class Footer extends React.Component {
 
 
          <nav className='footer__versions'>
-	    <h3>Thủ Dầu Một.</h3>
-	    <h3>Món ăn ngon Bình Dương & Địa điểm quán ăn Bình Dương.</h3>
+	    <h3>Món Ngon Mỗi Ngày.</h3>
             <a href='/tos/privacy'>Privacy</a>
             <a href='/tos'>Terms of service</a>
             <a href='/about' className='is-selected'><img className='footer__powered-svg' src={ prefixLink(iconKamon) }/> Giới thiệu về chúng tôi</a>
-	    <a href='http://thaoam.com/'>© Thao Am Private Enterprise (P.E)</a>
+	    <a href='http://midorishop.com.vn'>© Midorishop Private Enterprise (P.E)</a>
           </nav>
         </div>
         </div>
