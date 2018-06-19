@@ -9,9 +9,8 @@ html {
 body {
     margin: 0;
     text-align: center;
-    background: #D1E959;
-   // background: #bbb url(./static/img/backgrounds/default.png);
-    //color: #848c94;
+    background: #EEE8AA;
+    // background: #bbb url(./static/img/backgrounds/default.png);
     color: #4a4a4a;
     font: 400 16px/1.4 'Montserrat', Helvetica, Arial, sans-serif;
 }
@@ -33,8 +32,8 @@ body {
 
 // }
 
-// Selection colors 89a2ab
-$selection-color: #dad1d0;
+// Selection colors
+$selection-color: #89a2ab;
 
 ::selection {
     background: $selection-color;
