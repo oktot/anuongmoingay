@@ -1,7 +1,7 @@
 ---
-title: 'Bánh Ngon Mỗi Ngày'
-layout: Events
+title: 'Danh mục Bánh Ngon Mỗi Ngày'
+layout: Releases
 path: '/events/'
-meta: Bánh Ngon Mỗi Ngàyc
+meta: Danh mục Bánh Ngon Mỗi Ngày
 keywords: Bánh Ngon Mỗi Ngày
 ---
