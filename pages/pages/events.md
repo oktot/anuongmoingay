@@ -1,7 +1,7 @@
 ---
-title: 'Danh mục Bánh Ngon Mỗi Ngày'
-layout: Releases
+title: 'Công thức làm Bánh Ngon Mỗi Ngày'
+layout: Events
 path: '/events/'
-meta: Danh mục Bánh Ngon Mỗi Ngày
-keywords: Bánh Ngon Mỗi Ngày
+meta: Công thức làm Bánh Ngon Mỗi Ngày
+keywords: Công thức làm Bánh Ngon Mỗi Ngày
 ---
