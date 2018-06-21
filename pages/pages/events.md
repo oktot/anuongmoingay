@@ -1,7 +1,7 @@
 ---
-title: 'Events & Các sự kiện do Trà Sữa Phú Quốc tổ chức'
+title: 'Bánh Ngon Mỗi Ngày'
 layout: Events
 path: '/events/'
-meta: Events & Các sự kiện do Trà Sữa Phú Quốc tổ chức
-keywords: Events & Các sự kiện do Trà Sữa Phú Quốc tổ chức
+meta: Bánh Ngon Mỗi Ngàyc
+keywords: Bánh Ngon Mỗi Ngày
 ---
