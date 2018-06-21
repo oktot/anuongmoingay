@@ -32,7 +32,7 @@ class MainMenu extends React.Component {
 
                 <Link to={ prefixLink('/events/')} className={`mainmenu__link ${ location.pathname.indexOf(prefixLink('/events/')) == 0 ? 'is-selected' : '' }`} >
                     <img className='mainmenu__link-icon' src={ prefixLink(iconEvents) }/>
-                    <span className='mainmenu__link-name'>Thức Uống</span>
+                    <span className='mainmenu__link-name'>Công thức bánh</span>
                     <Ink />
                 </Link> 
 
