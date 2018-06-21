@@ -1,21 +1,21 @@
 ---
-title: 'Giới thiệu về Món Ngon Bình Dương'
+title: 'Giới thiệu về Bánh Ngon mỗi ngày'
 layout: HomePage
 path: '/about/'
-meta: Giới thiệu về Món Ngon Bình Dương
-keywords: Giới thiệu về Món Ngon Bình Dương
+meta: Giới thiệu về Bánh Ngon mỗi ngày
+keywords: Giới thiệu về Bánh Ngon mỗi ngày
 ---
 
-Món Ngon Bình Dương giới thiệu
+Giới thiệu về Bánh Ngon mỗi ngày
 
-**Món Ngon Bình Dương** là trang web trực tuyến tổng hợp các món ăn ngon trên địa bàn tỉnh Bình Dương.
+**Bánh Ngon mỗi ngày** là trang web trực tuyến tổng hợp các món bánh, món ngon trên địa bàn Việt Nam.
 phần lớn chúng ta đều lướt qua, hoặc không biết những nơi nào, thời gian và địa điểm ra sao nên chúng ta thường bỏ qua rất nhiều.
-Vì thế trang web này được tạo lập để tổng hợp các món ăn ngon, cũng như các địa điểm làm món ăn ngon nhất của Bình Dương.
+Vì thế trang web này được tạo lập để tổng hợp các món ăn ngon, cũng như các địa điểm làm món ăn ngon nhất của Việt Nam.
 
-## Thông tin chi tiết Món Ngon Bình Dương
+## Thông tin chi tiết Bánh Ngon mỗi ngày
 
-Tên gọi:**Món Ngon Bình Dương**
-Tên gọi bằng tiếng nước ngoài: **Dumplings in Binh Duong**
+Tên gọi:**Bánh Ngon mỗi ngày**
+Tên gọi bằng tiếng nước ngoài: ****
 
 Điện thoại liên hệ:
 Địa chỉ quán tại: 
