@@ -45,7 +45,7 @@ module.exports = React.createClass({
 			{ process.env.NODE_ENV === 'production' ? FacebookPageSetup : null }
 	<div id="react-mount" style={{width:'100%'}} dangerouslySetInnerHTML={ {    __html: this.props.body} } />
           <script src={ prefixLink(`/bundle.js?t=${BUILD_TIME}`) } />
-		  <script async src='https://www.googletagmanager.com/gtag/js?id=UA-122681262-1' />
+		  <script async src='https://www.googletagmanager.com/gtag/js?id=UA-' />
 		          { process.env.NODE_ENV === 'production' ? GoogleAnalyticsSetup : null }
         </body>
       </html>
@@ -59,7 +59,7 @@ function buildGoogleAnalyticsSetup() {
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-122681262-1');
+  gtag('config', 'UA-');
   `;
 
   return <script
@@ -70,7 +70,7 @@ function buildGoogleAnalyticsSetup() {
 function buildGoogleAdSense() {
   const js = `
   (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: 'ca-pub-3917963024669400',
+    google_ad_client: 'ca-pub-',
     enable_page_level_ads: true
   });
   `;
